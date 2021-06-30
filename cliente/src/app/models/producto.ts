@@ -1,5 +1,5 @@
 export class Producto{
-  id?: number; // interrogante indica que es un parametro opcional
+  _id?: number; // interrogante indica que es un parametro opcional
   nombre: string;
   categoria: string;
   ubicacion: string;
